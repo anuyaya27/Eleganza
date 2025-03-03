@@ -1,5 +1,5 @@
 # Eleganza – Your AI-Powered Luxury Outfit Stylist 
-<center> ![image](https://github.com/user-attachments/assets/0a7ada3a-2c97-4eca-ad85-3cf37bdbf9cb)</center>
+#<center> ![image](https://github.com/user-attachments/assets/0a7ada3a-2c97-4eca-ad85-3cf37bdbf9cb)</center>
 
 # (Coming Soon!)
 
