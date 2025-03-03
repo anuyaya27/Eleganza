@@ -1,4 +1,6 @@
-# Eleganza – Your AI-Powered Luxury Outfit Stylist (Coming Soon!)
+# Eleganza – Your AI-Powered Luxury Outfit Stylist 
+#
+# (Coming Soon!)
 
 ## Overview
 Eleganza is a cutting-edge web application that transforms personal wardrobes into a curated fashion experience. Powered by AI, Eleganza helps users style outfits based on their clothing collection, weather conditions, location, and personal style preferences. The platform aims to bring luxury and convenience to everyday fashion choices, ensuring users always look their best.
