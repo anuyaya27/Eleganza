@@ -10,14 +10,7 @@ function App() {
     <div className="App">
       {/* Canva Design as Embedded iFrame */}
       <header>
-        <iframe
-          title="Canva Design"
-          src="https://www.canva.com/design/DAGgtco5KjI/q9vqMXsexCQBaVlI5loCUg/view"
-          width="800"
-          height="600"
-          frameBorder="0"
-          style={{ margin: '0 auto', display: 'block' }}
-        ></iframe>
+      <iframe src="Eleganza.html"></iframe>
         <h1>Eleganza</h1>
         <p>Your AI-Powered Luxury Outfit Stylist</p>
       </header>
