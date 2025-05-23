@@ -2,12 +2,16 @@
 
 Eleganza is an AI-powered luxury outfit stylist that curates personalized fashion recommendations by blending your digital wardrobe with real-time data like weather, location, and style preferences. Whether you're dressing for a casual brunch or a black-tie gala, Eleganza delivers intelligent suggestions straight to your fingertips—seamlessly integrating Android front-end design with a Python-driven backend and Google Cloud infrastructure.
 
+## Inspiration
+My CS major friends that think wearing the same hoodie everyday is okay, because "fashion and styling is time consuming".
+
 ## Features
 
 - **Android Application**: The `app` directory contains the Android application source code, developed in Java, providing the user interface and core functionalities.
 
-## Inspiration
-My CS major friends that think wearing the same hoodie everyday is okay, because "fashion and styling is time consuming".
+- **Python Backend**: The `data` directory includes Python scripts that handle data processing and backend logic, facilitating communication between the app and cloud services.
+
+- **Cloud SQL Integration**: The repository includes `cloud_sql_proxy` and `cloud_sql_proxy_win.exe`, enabling secure connections to Google Cloud SQL databases for data storage and retrieval.
 
 ## Tech Stack
 
