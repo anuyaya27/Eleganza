@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Eleganza (1).png" alt="Eleganza Logo" width="200"/>
+</p>
+
 # Eleganza
 
 Eleganza is an AI-powered luxury outfit stylist that curates personalized fashion recommendations by blending your digital wardrobe with real-time data like weather, location, and style preferences. Whether you're dressing for a casual brunch or a black-tie gala, Eleganza delivers intelligent suggestions straight to your fingertips—seamlessly integrating Android front-end design with a Python-driven backend and Google Cloud infrastructure.
